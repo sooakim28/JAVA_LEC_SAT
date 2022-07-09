@@ -8,6 +8,9 @@ public class VariableLec03 {
 		char b = 20;
 		short c = 100;
 		long d = 1000;
+		
+		double e = 10.1;
+		System.out.println("a + e = " + (a + e)); // 3주차
 	
 		//선언과 초기화를 별도로
 		int aa; 
