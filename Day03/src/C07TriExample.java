@@ -4,12 +4,12 @@
  *
  */
 
-public class D0307TriExample {
+public class C07TriExample {
 	
 	public static void main(String[] args) {
 		
 		int point = 90;    // 커트라인
-		int gainedPoint = 100;   // 얻은점수
+		int gainedPoint = 80;   // 얻은점수
 		int isPassed = 0;    // pass 여부 (0 fail, 1 pass)
 		String isPassedString = "";
 		

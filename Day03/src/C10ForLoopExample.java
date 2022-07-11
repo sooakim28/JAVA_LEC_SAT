@@ -7,7 +7,7 @@
  *
  */
 
-public class D0310ForLoopExample {
+public class C10ForLoopExample {
 	
 	public static void main(String[] args) {
 		

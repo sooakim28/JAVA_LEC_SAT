@@ -5,7 +5,7 @@
  *
  */
 
-public class D0309ConditionExample2 {
+public class C09ConditionExample2 {
 	
 	public static void main(String[] args)  {
 		

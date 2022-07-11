@@ -6,7 +6,7 @@
  * 2. switch 구문: 
  *
  */
-public class D0308ConditionExample {
+public class C08ConditionExample {
 	
 	public static void main(String[] args) {
 		
@@ -66,7 +66,10 @@ public class D0308ConditionExample {
 			System.out.println("못타ㅎ");	
 		}                                                // 1번째 방식, 두가지 조건만 표현가능(타라/못탐)
 		
-		/**
+		System.out.println("\n");
+		
+		
+		
 		if( age >=6) {
 			if (height >=120) {
 				if (!heartAttacted) {
@@ -82,7 +85,7 @@ public class D0308ConditionExample {
 			System.out.println("나이가 어려서 못타용");
 		}                                                // 2번째 방식, else를 이용해 여러개 표현 가능
 		
-		*/ 
+		
 		
 	}
 	

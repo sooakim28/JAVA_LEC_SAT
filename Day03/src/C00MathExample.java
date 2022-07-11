@@ -10,7 +10,7 @@
  */
 
 
-public class D0300MathExample {
+public class C00MathExample {
 	public static void main(String[] args) {
 		
 		int x = 10;

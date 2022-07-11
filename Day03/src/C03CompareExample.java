@@ -7,7 +7,7 @@
  *      A==B (A equal B),  A!=B (A not equal B, 같지 않음)
  *
  */
-public class D0303CompareExample {
+public class C03CompareExample {
 
 	
 	public static void main(String[] args) {

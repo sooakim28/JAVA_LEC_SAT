@@ -6,7 +6,7 @@
  *  
  */
 
-public class D0306ShiftExample {
+public class C06ShiftExample {
     
 	public static void main(String[] args) {
 		

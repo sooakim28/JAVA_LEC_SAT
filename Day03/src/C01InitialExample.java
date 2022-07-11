@@ -13,7 +13,7 @@
   *
   */
 
-public class D0301InitialExample {
+public class C01InitialExample {
 	
 	public static void main(String[] args) {
 		

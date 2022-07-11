@@ -1,5 +1,5 @@
 
-public class D0304LogicalExmaple {
+public class C04LogicalExmaple {
 
 	public static void main(String[] args) {
 		

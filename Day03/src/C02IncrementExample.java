@@ -11,7 +11,7 @@
  *       
  *
  */
-public class D0302IncrementExample {
+public class C02IncrementExample {
 
 	public static void main(String[] args) {
 		

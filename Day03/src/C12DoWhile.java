@@ -20,7 +20,7 @@
  */
 
 
-public class D0312DoWhile {
+public class C12DoWhile {
 	
 	public static void main(String[] args) {
 		

@@ -4,7 +4,7 @@
  */
 
 
-public class D0305BinaryExample {
+public class C05BinaryExample {
 
 	public static void main(String[] args) {
 		
