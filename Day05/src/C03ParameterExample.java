@@ -12,6 +12,8 @@ public class C03ParameterExample {
 	
 	
 	static void printAddValue (int x, int y) {                // 1) x와 y는 기본(일반)타입: pass by value (copy by value와 동일)
+	//	int x;       =>  지역변수는 다른 매소드에서 직접 접근 불가능 하기 때문에 매개변수 사용
+	//	int y; 
 		int z = x + y;
 		x++;
 		y++;
@@ -24,6 +26,7 @@ public class C03ParameterExample {
 	
 	static void printAddArray(int[] x) {                      // 3) 참조방식: pass by reference
 		x[1] = 10;
+		printAddValue(10,20);
 	}
 
 	
