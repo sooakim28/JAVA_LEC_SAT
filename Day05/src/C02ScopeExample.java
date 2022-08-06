@@ -26,7 +26,7 @@ public class C02ScopeExample {
 		System.out.println(name);
 	}
 	
-	public static void printNameClass() {       // 전역변수 출력
+	public static void printNameClass() {       // 전역변수 출력 (name을 만든건 저 위)
 		name = "ddd";
 		System.out.println(name);
 	}

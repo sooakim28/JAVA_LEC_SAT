@@ -7,7 +7,7 @@ public class C06실습 {
 		
 		int input;
 		System.out.print("입력: ");
-		input = Integer.parseInt(sc.nextLine());
+		input = Integer.parseInt(sc.next());
 		
 		
 		
